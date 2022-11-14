@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyLab2</string>
+    <string name="greeting"></string>
+    <string name="scotty">Scotty Dog</string>
+    <string name="d3">Cat 1</string>
+    <string name="d4">Cat 2</string>
+    <string name="d5">Cat 3</string>
+    <string name="ddd2">Cat 4</string>
+    <string name="scotty2">Scotty Dog2</string>
+    <string name="buttonHello">Get Values</string>
+    <string name="enterName">Enter Text</string>
+</resources>
