@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Items</string>
+    <string name="readmsg">View list </string>
+    <string name="addBook">Add Item to List</string>
+    <string name="bookName">Name</string>
+    <string name="authorName">Author</string>
+    <string name="add">Add</string>
+    <string name="bookAdded">Item Added</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Do You want to delete Item?</string>
+    <string name="deleteBook">Item Deleted</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>
