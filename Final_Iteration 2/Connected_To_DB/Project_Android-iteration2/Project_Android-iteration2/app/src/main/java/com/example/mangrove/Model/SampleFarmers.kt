@@ -1,0 +1,40 @@
+package com.example.mangrove.Model
+
+object SampleFarmers {
+    val FarmersSample = listOf(
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677"),
+        ProductPosted(name = "Isabwe", location = "Karongi", productType = "Potato", kiloPersack = "34", numbsack = "56", number = "+2550785151677")
+    )
+}
